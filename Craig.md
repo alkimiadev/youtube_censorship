@@ -1,6 +1,6 @@
 ### Overview
 
-This document analyzes a series of interactions from Google's Help Forum involving a "Gold Product Expert" named [https://support.google.com/communities/answer/7424249](Graig), whose responses to user queries are concerning. Despite unsubscribing and marking the forum emails as spam, the notifications persisted, prompting a deeper examination of the communication. Graig’s comments are particularly troubling given his authoritative role within the forum, where users seek assistance in good faith.
+This document analyzes a series of interactions from Google's Help Forum involving a "Gold Product Expert" named (https://support.google.com/communities/answer/7424249)[Graig], whose responses to user queries are concerning. Despite unsubscribing and marking the forum emails as spam, the notifications persisted, prompting a deeper examination of the communication. Graig’s comments are particularly troubling given his authoritative role within the forum, where users seek assistance in good faith.
 
 The interactions span four threads and contain numerous dismissive and derogatory remarks. These responses undermine the constructive environment expected in support forums and may contribute to users' growing frustrations with YouTube’s moderation practices. Examples of concerning comments include:
 
@@ -22,7 +22,6 @@ This analysis ties into the broader project aimed at highlighting evidence of "b
 
 ### Reply 1
  - **Date:** Fri, Jan 10, 2025 at 8:47 PM
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -32,7 +31,6 @@ Here’s what all of should do. Leave that nonsense at TikTok. While on YouTube 
 
 ### Reply 2
  - **Date:** Jan 10, 2025, 9:05 PM (14 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -42,7 +40,6 @@ This is exactly what I’m saying. Leave that nonsense over at some other platfo
 
 ### Reply 3
  - **Date:** Jan 10, 2025, 9:14 PM (14 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -52,7 +49,6 @@ Again no one’s cares. This is why your comments keep getting tossed out. Prete
 
 ### Reply 4
  - **Date:** Fri, Jan 10, 9:20 PM (14 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -62,8 +58,6 @@ All my comments are appropriate and don’t get automatically removed by the sys
 
 ### Reply 5
  - **Date:** Jan 10, 2025, 9:26 PM (14 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
- - **Reply Link:**[https://support.google.com/youtube/thread/255012828/youtube-keeps-deleting-all-my-comments?msgid=317963859#action=reply](Reply 1 link)
  - **Scores:**
 
 #### Comment text
@@ -73,7 +67,6 @@ Here’s another example why you keep getting rejected. The more you write the m
 
 ### Reply 6
  - **Date:** Fri, Jan 10, 9:37 PM (13 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -83,7 +76,6 @@ I already know the problem you’re having. System isn’t removing you. You kee
 
 ### Reply 7
  - **Date:** Jan 10, 2025, 9:48 PM (13 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -93,7 +85,6 @@ I’ve been on this Forum since 2011. You are not the first user that keeps gett
 
 ### Reply 8
  - **Date:** 4:02 AM (7 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -103,7 +94,6 @@ I’ve been on this Forum since 2011. You are not the first user that keeps gett
 
 ### Reply 9
  - **Date:** 4:31 AM (7 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -117,7 +107,6 @@ Then he’ll complain my comments aren’t being posted”
 
 ### Reply 10
  - **Date:** 4:49 AM (7 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -127,7 +116,6 @@ The way people write on this forum is a reflection on the kind of comments being
 
 ### Reply 11
  - **Date:** 9:58 AM (2 hours ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
@@ -137,7 +125,6 @@ What we contributors do here is screen problems to be forwarded over to YT emplo
 
 ### Reply 12
  - **Date:** 10:17 AM (1 hour ago)
- - **User:** [https://support.google.com/communities/answer/7424249](Graig)
  - **Scores:**
 
 #### Comment text
