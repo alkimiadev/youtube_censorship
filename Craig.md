@@ -1,6 +1,6 @@
 ### Overview
 
-This document analyzes a series of interactions from Google's Help Forum involving a "Gold Product Expert" named (https://support.google.com/communities/answer/7424249)[Graig], whose responses to user queries are concerning. Despite unsubscribing and marking the forum emails as spam, the notifications persisted, prompting a deeper examination of the communication. Graig’s comments are particularly troubling given his authoritative role within the forum, where users seek assistance in good faith.
+This document analyzes a series of interactions from Google's Help Forum involving a "Gold Product Expert" named [Graig](https://support.google.com/communities/answer/7424249), whose responses to user queries are concerning. Despite unsubscribing and marking the forum emails as spam, the notifications persisted, prompting a deeper examination of the communication. Graig’s comments are particularly troubling given his authoritative role within the forum, where users seek assistance in good faith.
 
 The interactions span four threads and contain numerous dismissive and derogatory remarks. These responses undermine the constructive environment expected in support forums and may contribute to users' growing frustrations with YouTube’s moderation practices. Examples of concerning comments include:
 
