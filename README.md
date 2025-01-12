@@ -31,9 +31,6 @@ Ultimately, the goal is to advocate for fairer, more transparent moderation prac
    - Examine the potential legal and ethical concerns arising from predatory DMCA takedowns and opaque moderation practices.
    - Explore whether YouTube’s actions align with local and international regulations.
 
-By gathering evidence, fostering collaboration, and advocating for systemic change, this repository aims to drive meaningful improvements in YouTube’s moderation practices, benefiting creators, users, and the wider online community.
-
-
 ## How to Submit an Issue  
 
 If you’ve encountered moderation issues on YouTube or its community forums, we welcome your report. Whether it’s a shadow ban, comment removal, DMCA takedown, account suspension, or something not listed here your input helps us document and analyze these systemic problems.  
@@ -55,8 +52,8 @@ There are many ways to support this project, including:
 - **Technical Contributions**: Develop tools, analyze data, or improve documentation.  
 - **Raising Awareness**: Share the project on social media or engage with relevant communities.  
 - **Collaborative Research**: Participate in case studies or explore legal implications of YouTube's practices.  
-
 For detailed guidelines on how to contribute, visit the [Contributing README](contributing/README.md).  
+
 ---
 
 ## Project Index
