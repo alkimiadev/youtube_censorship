@@ -15,35 +15,35 @@ This document outlines my experience with shadow banning in YouTube’s communit
 ### Evidence and Screenshots
 
 1. **Main Account View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/main_account_view.png](main_account_view.png)
+   - **Screenshot**: [main_account_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/main_account_view.png)
    - Description: This shows the view of my posts in the community forum from my main account. It displays "3 replies" and includes both of my follow-up posts.
 
 2. **Main Post View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/main_post_view.png](main_post_view.png)
+   - **Screenshot**: [main_post_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/main_post_view.png)
    - Description: The thread as viewed from my main account. Both follow-up posts are visible here.
 
 3. **Other Account View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/other_account_view.png](other_account_view.png)
+   - **Screenshot**: [other_account_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/other_account_view.png)
    - Description: This shows the community forum post view from my secondary account. It indicates "3 replies," but the two follow-up posts are not displayed.
 
 4. **Other Post View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/other_post_view.png](other_post_view.png)
+   - **Screenshot**: [other_post_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/other_post_view.png)
    - Description: The thread as viewed from my secondary account. Neither of the follow-up posts are visible.
 
 5. **Private Tab Account View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_account_view.png](private_tab_account_view.png)
+   - **Screenshot**: (private_tab_account_view.png)(https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_account_view.png)
    - Description: This is the view of my posts from a private browsing tab. Like the other account, it shows "3 replies," but the follow-up posts remain hidden.
 
 6. **Private Tab Post View**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_post_view.png](private_tab_post_view.png)
+   - **Screenshot**: [private_tab_post_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_post_view.png)
    - Description: The thread as seen from a private browsing tab. Again, the two follow-up posts are not visible.
 
 7. **Hidden Post 1**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/hidden_post_1.png](hidden_post_1.png)
+   - **Screenshot**: [hidden_post_1.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/hidden_post_1.png)
    - Description: This shows the first follow-up post, which is only visible to my main account or with the direct link.
 
 8. **Hidden Post 2**:
-   - **Screenshot**: [https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/hidden_post_1.png](hidden_post_2.png)
+   - **Screenshot**: [hidden_post_2.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/hidden_post_1.png)
    - Description: This shows the second follow-up post, also visible only to my main account or with the direct link.
 
 ---
