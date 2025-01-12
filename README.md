@@ -58,9 +58,9 @@ If you’ve experienced similar moderation issues on YouTube or its community fo
   2. **Comment**: Link to the specific comment, if available.
   3. **Parent Comment**: Link to the parent comment if the reported comment is a reply (optional if not applicable).
   4. **Status**: Indicate whether the comment was deleted or hidden (e.g., shadow banned).
-
+  
   **Optional Fields**:
-  5. **Details**: Include any additional relevant context, such as:
+  1. **Details**: Include any additional relevant context, such as:
      - Whether the comment violated any Community Guidelines (to your knowledge).
      - How you discovered the comment was hidden.
      - Any interactions with moderators or notifications received.
