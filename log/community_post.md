@@ -1,6 +1,6 @@
 ### Shadow Banning Case Study in YouTube’s Community Forums
 
-This document outlines my experience with shadow banning in YouTube’s community forums. I have posted three replies in a specific thread, yet only my main account can see these replies. Despite this, there has been no notification of moderation, and there is no apparent way to appeal these hidden posts. Below, I present the relevant links, evidence, and discussion to highlight the systemic issue of bad faith moderation.
+This document outlines my experience with shadow banning in YouTube’s community forums. I have posted two replies in a specific thread, yet only my main account can see these replies. Despite this, there has been no notification of moderation, and there is no apparent way to appeal these hidden posts. Below, I present the relevant links, evidence, and discussion to highlight the systemic issue of bad faith moderation.
 
 ---
 
