@@ -31,7 +31,7 @@ This document outlines my experience with shadow banning in YouTube’s communit
    - Description: The thread as viewed from my secondary account. Neither of the follow-up posts are visible.
 
 5. **Private Tab Account View**:
-   - **Screenshot**: (private_tab_account_view.png)(https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_account_view.png)
+   - **Screenshot**: [private_tab_account_view.png](https://github.com/alkimiadev/youtube_censorship/blob/main/screenshots/private_tab_account_view.png)
    - Description: This is the view of my posts from a private browsing tab. Like the other account, it shows "3 replies," but the follow-up posts remain hidden.
 
 6. **Private Tab Post View**:
