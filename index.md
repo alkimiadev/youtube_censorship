@@ -28,3 +28,13 @@ Contains all the relevant screenshots used as evidence in the logs and open lett
 - Views from different accounts showing hidden posts.
 - Examples of toxic comments from forum moderators.
 - Screenshots of hidden YouTube comments.
+
+### 5. **reporting/**  
+
+A directory focused on guiding users through reporting their experiences with YouTube’s moderation system. Includes templates and detailed instructions for submitting reports on issues such as shadow bans, account suspensions, DMCA takedowns, and support-related concerns.
+
+---
+
+### 6. **contributing/**  
+
+Provides guidelines on how to contribute to the project. Includes detailed instructions for providing feedback, suggesting new areas of focus, developing tools, raising awareness, and collaborating on research.
