@@ -36,13 +36,16 @@ YouTube defines "Content" broadly to encompass everything from videos to user co
 
 #### Discussion
 
-YouTube reserves the right to remove content under broad conditions, including violations of their agreement or perceived harm to users or third parties. While they claim to notify users of content removals and provide an appeal mechanism, these notifications are limited to cases where content removal leads to account moderation, such as suspensions or terminations. Hidden comments, however, do not trigger any notification, leaving users unaware of their status. Furthermore, the appeal process focuses solely on account-related actions, offering no way to directly challenge the removal of individual content, which severely limits transparency and accountability.
+YouTube reserves the right to remove content under broad conditions, including violations of their agreement or perceived harm to users or third parties. The TOS explicitly classifies comments as "content" and makes no distinction between different types of content, implying that the stated policies apply equally to videos, comments, and other materials. 
+
+For videos, YouTube generally notifies users of removals and provides a mechanism to appeal. However, for comments, no such notifications or appeals are provided, even though comments are considered "content" under the TOS. This discrepancy creates a significant gap in transparency and accountability, as users are left unaware when their comments are removed or hidden. Additionally, the appeal process focuses exclusively on account-related actions, such as suspensions or terminations, without offering a direct way to contest the removal of individual comments.
 
 #### Issues
 
-- Notifications and appeals are only sent when content removal leads to account moderation, such as suspension or termination.
-- Hidden comments never trigger notifications, leaving users unaware of their status.
-- The appeal process is limited to account-related actions, not individual content removal, restricting users' ability to contest these decisions.
+- Notifications and appeals are only provided for certain types of content, such as videos, while comments are excluded despite being classified as "content" in the TOS.
+- Hidden comments never trigger notifications, leaving users unaware of their status and unable to address potential moderation issues.
+- The appeal process is limited to account-related actions and does not allow users to directly contest the removal or shadow moderation of individual comments.
+
 
 ### 3. **Permissions and Restrictions**
 
