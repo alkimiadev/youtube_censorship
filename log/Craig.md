@@ -14,7 +14,7 @@ These comments will be analyzed through Detoxify to assess toxicity levels. Howe
 
 ### Transparency Statement  
 
-“While Graig’s recent comments in the forum have been concerning due to their dismissive and unprofessional tone, it’s worth noting that he previously appeared to be helpful in many interactions. It’s possible that a highly toxic comment or thread may have triggered this shift in behavior, though the exact cause is unclear. This situation underscores the importance of investigating systemic issues in YouTube’s support system, including how moderators are supported and how they handle sensitive or inflammatory content.”  
+While Graig’s recent comments in the forum have been concerning due to their dismissive and unprofessional tone, it’s worth noting that he previously appeared to be helpful in many interactions. It’s possible that a highly toxic comment or thread may have triggered this shift in behavior, though the exact cause is unclear. This situation underscores the importance of investigating systemic issues in YouTube’s support system, including how moderators are supported and how they handle sensitive or inflammatory content
 
 
 

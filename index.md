@@ -15,9 +15,6 @@ A directory containing detailed logs and case studies of moderation incidents:
 - **community\_forum.md**\
   A detailed case study documenting shadow banning in YouTube’s community forums. This includes evidence of hidden posts, screenshots, and an analysis of a "Gold Product Expert's" behavior.
 
-- **youtube.md** *(upcoming)*\
-  A log of incidents where YouTube comments were hidden, including screenshots and descriptions. This will serve as further evidence of moderation inconsistencies.
-
 - **Craig.md**\
   A compilation of insulting and dismissive comments from a "Gold Product Expert" in the community forums. This document supports the claim of biased and unprofessional behavior among forum moderators.
 
